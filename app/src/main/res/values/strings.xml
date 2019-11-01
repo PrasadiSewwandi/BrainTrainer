@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="first_button"> </string>
+    <string name="second_button"> </string>
+    <string name="winScreeen"> Im ready to go for the next level </string>
+    <string name="third_button"></string>
+    <string name="fourth_button">Welcome to Braintrainer</string>
+    <string name="fifth_button"> </string>
+    <string name="con_button1"> </string>
+    <string name="con_button2">WoW!..You Have passed This Level</string>
+    <string name="con_button3"> </string>
+    <string name="con_button4">Go to Score Board </string>
+    <string name="los_button1">You have not enough scored to go for the next Level  </string>
+    <string name="los_button2">  </string>
+    <string name="los_button3">  </string>
+    <string name="button1ResultScreen">Score Board </string>
+    <string name="button1ResultScreen2">Play From Beginning </string>
+    <string name="button1ResultScreen3"> Exit </string>
+    <string name="string_veiw1">After clicking the “Click Here to Start the Game” button you will be displayed some set of random numbers according to the level you are in. </string>
+    <string name="string_veiw2">Then you have to enter those numbers that you were shown, correctly in correct order</string>
+    <string name="string_veiw3">Number of correct answers and speed of giving inputs will consider on score generation process.</string>
+    <string name="string_veiw4">If you could score more than the expected level, you can go for the next game level.</string>
+    <string name="string_veiw5">If not, you have to play the current level again until you score enough to go for the next level. </string>
+    <string name="string_veiw6">Enjoy the Game!</string>
+    <string name="reultScreen">Reult Screen</string>
+
+
+</resources>

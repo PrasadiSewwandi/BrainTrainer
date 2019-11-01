@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.braintrainer">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_to_be"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_to_be"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MarksCarring"></activity>
+        <activity android:name=".FirstSubmission" />
+        <activity android:name=".Displaying" />
+        <activity android:name=".Submit" />
+        <activity android:name=".BeforeSubmit" />
+        <activity android:name=".DisplayScore" />
+        <activity android:name=".ScoreBoard" />
+        <activity android:name=".LoserScreen" />
+        <activity android:name=".WinningScreen" />
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".GameActivity" />
+        <activity android:name=".InstructionActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
