@@ -96,7 +96,7 @@ public class DisplayScore extends AppCompatActivity {
             startActivity(playGameIntent);
         }
         else  {
-            Intent playGameIntent = new Intent(DisplayScore.this, ResultActivity.class);
+            Intent playGameIntent = new Intent(DisplayScore.this, LoserScreen.class);
             startActivity(playGameIntent);
         }
         finish();
